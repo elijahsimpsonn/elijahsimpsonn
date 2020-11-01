@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-sandman235.vercel.app/api/spotify-playing" alt="Elijah Simpson Spotify Playing" width="350" />](https://open.spotify.com/user/sandman235)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sandman235&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
