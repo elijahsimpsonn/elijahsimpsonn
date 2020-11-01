@@ -1,6 +1,6 @@
 ### Hi there, I'm [Elijah Simpson][website] 👋
 
-## I'm a Software Developer who is loves to solve problems and create interesting applications.
+## I'm a Software Developer who loves to solve problems and create interesting applications.
 
 - I’m currently learning React
 - I am always looking to collaborate with other developers, so please feel free to reach out to me
