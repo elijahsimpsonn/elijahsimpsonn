@@ -7,9 +7,9 @@
 - <strong>Nov 2020 Goals:</strong> Create a new version of my Portfolio using React and create at least two new web apps using React
 - I am also going to try to maintain at least one meaningful GitHub commit every day
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sandman235&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sandman235&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
 
 ### Connect with me:
 
