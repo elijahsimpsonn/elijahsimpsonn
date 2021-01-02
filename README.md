@@ -4,7 +4,7 @@
 
 - I’m currently learning React
 - I am always looking to collaborate with other developers, so please feel free to reach out to me
-- <strong>Nov 2020 Goals:</strong> Create a new version of my Portfolio using React and create at least two new web apps using React
+- <strong>Jan 2021 Goals:</strong> Finish my portfolio, learn more about DS&A, and finish a new full-stack project
 - I am also going to try to maintain at least one meaningful GitHub commit every day
 
 <!-- ### Spotify Playing 🎧
