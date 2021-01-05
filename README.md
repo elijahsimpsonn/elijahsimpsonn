@@ -1,11 +1,10 @@
 ### Hi there, I'm [Elijah Simpson][website] 👋
 
-## I'm a Software Developer who loves to solve problems and create interesting applications.
+## I'm a Full Stack Developer who loves to solve problems and create interesting applications.
 
-- I’m currently learning React
+- I’m currently learning more about Data Structures and Algorithms
 - I am always looking to collaborate with other developers, so please feel free to reach out to me
 - <strong>Jan 2021 Projects:</strong> <a href='https://github.com/elijahsimpsonn/waitcashv2-server'>WaitCash Server</a>
-- I am also going to try to maintain at least one meaningful GitHub commit every day
 
 <!-- ### Spotify Playing 🎧
 
