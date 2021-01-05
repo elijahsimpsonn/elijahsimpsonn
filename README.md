@@ -4,7 +4,7 @@
 
 - I’m currently learning React
 - I am always looking to collaborate with other developers, so please feel free to reach out to me
-- <strong>Jan 2021 Goals:</strong> Finish my portfolio, learn more about DS&A, and finish a new full-stack project
+- <strong>Jan 2021 Projects:</strong> <a href='https://github.com/elijahsimpsonn/waitcashv2-server'>WaitCash Server</a>
 - I am also going to try to maintain at least one meaningful GitHub commit every day
 
 <!-- ### Spotify Playing 🎧
