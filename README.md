@@ -6,9 +6,10 @@
 - I am always looking to collaborate with other developers, so please feel free to reach out to me
 - <strong>Jan 2021 Projects:</strong> <a href='https://github.com/elijahsimpsonn/waitcashv2-server'>WaitCash Server</a>
 
-<!-- ### Spotify Playing 🎧
+### Tech I Work With
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sandman235&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
+[<img align="left" alt="html" width="22px" src="https://drive.google.com/file/d/1EdHq8sTVXrk3qa67PG2PHTUEeWUnqq2A/view?usp=sharing" />]
+
 
 ### Connect with me:
 
