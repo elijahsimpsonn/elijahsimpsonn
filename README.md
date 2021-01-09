@@ -7,21 +7,13 @@
 - <strong>Jan 2021 Projects:</strong> <a href='https://github.com/elijahsimpsonn/waitcashv2-server'>WaitCash Server</a>
 
 
-### Tech I Work With:
-
-<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-
-
----
-
 ### Connect with me:
 
-[<img align="left" alt="elijahsimpson.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="elijahsimpson | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="elijahsimpsonn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Elijah Simpson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="elijahsimpsonn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="elijahsimpson.com" width="22px" src="https://img.icons8.com/plasticine/44/000000/resume-website.png" />][website]
+[<img align="left" alt="elijahsimpson | YouTube" width="22px" src="https://img.icons8.com/plasticine/44/000000/youtube.png"/>][youtube]
+[<img align="left" alt="elijahsimpsonn | Twitter" width="22px" src="https://img.icons8.com/fluent/44/000000/twitter.png"/>][twitter]
+[<img align="left" alt="Elijah Simpson | LinkedIn" width="22px" src="https://img.icons8.com/fluent/44/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="elijahsimpsonn | Instagram" width="22px" src="https://img.icons8.com/fluent/44/000000/instagram-new.png"/>][instagram]
 
 <br />
 
