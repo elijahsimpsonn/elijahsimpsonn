@@ -7,7 +7,9 @@
 - <strong>Jan 2021 Projects:</strong> <a href='https://github.com/elijahsimpsonn/waitcashv2-server'>WaitCash Server</a>
 
 
+### Tech I Work With:
 
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5.png">
 
 ### Connect with me:
 
