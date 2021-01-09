@@ -6,9 +6,7 @@
 - I am always looking to collaborate with other developers, so please feel free to reach out to me
 - <strong>Jan 2021 Projects:</strong> <a href='https://github.com/elijahsimpsonn/waitcashv2-server'>WaitCash Server</a>
 
-### Tech I Work With
 
-[<img align="left" alt="html" width="22px" src="https://drive.google.com/file/d/1EdHq8sTVXrk3qa67PG2PHTUEeWUnqq2A/view?usp=sharing" />]
 
 
 ### Connect with me:
