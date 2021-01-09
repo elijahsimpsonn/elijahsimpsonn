@@ -9,7 +9,11 @@
 
 ### Tech I Work With:
 
-<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5.png">
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+
+
+---
 
 ### Connect with me:
 
