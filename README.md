@@ -4,7 +4,7 @@
 
 - I’m currently learning more about Data Structures and Algorithms
 - I am always looking to collaborate with other developers, so please feel free to reach out to me
-- <strong>Jan 2021 Projects:</strong> <a href='https://github.com/elijahsimpsonn/waitcashv2-server'>WaitCash Server</a>
+- <strong>Feb 2021 Projects:</strong> <a href='https://github.com/elijahsimpsonn/waitcashv2-server'>WaitCash Server</a>
 
 
 ### Connect with me:
