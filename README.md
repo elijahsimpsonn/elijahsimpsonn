@@ -1,4 +1,4 @@
-<h1 align="left" id="elijah-title">:wave: Hi there! I'm [Elijah Simpson][website]</h1>
+<h1 align="left" id="elijah-title">:wave: Hi there! I'm Elijah Simpson</h1>
 
 ## I'm a Full Stack Developer who loves to solve problems and create interesting applications.
 
