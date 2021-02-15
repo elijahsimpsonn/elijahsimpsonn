@@ -3,9 +3,9 @@
 <h3 align="center"> I'm a Software Developer who loves to solve problems and create interesting applications. </h3>
 
 <div align="center">
-<li>🌱 I’m currently learning React </li>
+<li>🌱 I’m currently taking a deep dive into the complex things in Javascript </li>
 <li>👯 I am always looking to collaborate with other developers, so please feel free to connect!</li>
-<li>🥅 <b>What I'm Working On:</b> Finish WaitCash | Refactor Repo README's | Refactor Portfolio</li>
+<li>🥅 <b>What I'm Working On:</b> Refactor Repo README's | Refactor Portfolio | Create LEDJJ Site </li>
 </div>
 
 <div align="center">
