@@ -5,7 +5,7 @@
 <div align="center">
 <li>🌱 I’m currently taking a deep dive into the complex things in Javascript </li>
 <li>👯 I am always looking to collaborate with other developers, so please feel free to connect!</li>
-<li>🥅 <b>What I'm Working On:</b> Refactor Repo README's | Create LEDJJ Site | Start Recording JS Tutorial Series for YouTube</li>
+<li>🥅 <b>What I'm Working On:</b> My SaaS Application</li>
 </div>
 
 <div align="center">
