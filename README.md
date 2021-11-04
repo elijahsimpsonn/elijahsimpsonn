@@ -3,9 +3,9 @@
 <h3 align="center"> I'm a Full Stack Engineer who loves to solve problems and create interesting applications. </h3>
 
 <div align="center">
-<li>🌱 I’m currently taking a deep dive into the complex things in Javascript </li>
+<li>🌱 Going through a SQL course to refresh myself on some of the more complex concepts </li>
 <li>👯 I am always looking to collaborate with other developers, so please feel free to connect!</li>
-<li>🥅 <b>What I'm Working On:</b> My SaaS Application</li>
+<li>🥅 <b>What I'm Working On:</b> Karaoke Application User Stories</li>
 </div>
 
 <div align="center">
@@ -17,11 +17,9 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <br/ >
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
 <br/>
