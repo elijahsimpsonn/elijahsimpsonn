@@ -3,7 +3,6 @@
 <h3 align="center"> I'm a Full Stack Engineer who loves to solve problems and create interesting applications. </h3>
 
 <div align="center">
-<li>🌱 Going through a SQL course to refresh myself on some of the more complex concepts </li>
 <li>👯 I am always looking to collaborate with other developers, so please feel free to connect!</li>
 <li>🥅 <b>What I'm Working On:</b> Karaoke Application User Stories</li>
 </div>
