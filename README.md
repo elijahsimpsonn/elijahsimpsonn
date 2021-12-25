@@ -1,6 +1,6 @@
 <h2 align="center"> Hello! I'm <a href="http://www.elijahsimpson.com">Elijah Simpson</a> 👋 </h2>
 
-<h3 align="center"> I'm a Full Stack Engineer who loves to solve problems and create interesting applications. </h3>
+<h3 align="center"> I'm a Full Stack Engineer/Project Manager who loves to solve problems and create interesting applications. </h3>
 
 <div align="center">
 <li>👯 I am always looking to collaborate with other developers, so please feel free to connect!</li>
