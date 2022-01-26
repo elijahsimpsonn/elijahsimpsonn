@@ -4,7 +4,7 @@
 
 <div align="center">
 <li>👯 I am always looking to collaborate with other developers, so please feel free to connect!</li>
-<li>🥅 <b>What I'm Working On:</b> Karaoke Application</li>
+<li>🥅 <b>What I'm Working On:</b> Karaoke Application Frontend</li>
 </div>
 
 <div align="center">
