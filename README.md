@@ -27,5 +27,4 @@
 <h3>Connect</h3>
 <a href="http://www.elijahsimpson.com/"><img src="https://img.shields.io/badge/Portfolio-D1AB66?style=for-the-badge&logo=react&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/elijahsimpson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://twitter.com/elijahsimpsonn"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 </div>
