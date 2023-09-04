@@ -4,7 +4,7 @@
 
 <div align="center">
 <p>👯 I am always looking to collaborate with other developers, so please feel free to connect!</p>
-<p>🥅 <b>What I'm Working On:</b> Karaoke Application Frontend</p>
+<p>🥅 <b>What I'm Working On:</b> Karaoke Application Frontend & AWS Cloud Practitioner Certification</p>
 </div>
 
 <div align="center">
