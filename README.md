@@ -3,8 +3,8 @@
 <h3 align="center"> I'm a Software Engineer turned Product Manager who loves to solve problems and create interesting applications. </h3>
 
 <div align="center">
-<li>👯 I am always looking to collaborate with other developers, so please feel free to connect!</li>
-<li>🥅 <b>What I'm Working On:</b> Karaoke Application Frontend</li>
+<p>👯 I am always looking to collaborate with other developers, so please feel free to connect!</p>
+<p>🥅 <b>What I'm Working On:</b> Karaoke Application Frontend</p>
 </div>
 
 <div align="center">
