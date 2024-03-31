@@ -4,7 +4,7 @@
 
 <div align="center">
 <p>👯 I am always looking to collaborate with other developers, so please feel free to connect!</p>
-<p>🥅 <b>What I'm Working On:</b> Dog SaaS MVP, New Portfolio Site, and my Personal MBA Project</p>
+<p>🥅 <b>What I'm Working On:</b> Dog SaaS MVP, New Portfolio Site, my "MBA" reading list, and a Cloud Engineering degree from WGU</p>
 </div>
 
 <div align="center">
